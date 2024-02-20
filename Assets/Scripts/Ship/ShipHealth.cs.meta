@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5a032b212d437d9458f3022a9f231977
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - woodSplash: {fileID: 5902325443608630637, guid: 99104c95117d4994d9ef26543e57397d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

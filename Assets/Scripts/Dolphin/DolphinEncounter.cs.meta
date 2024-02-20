@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 50e01bb042730904cb64dc569b26ce6a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - harpoon: {fileID: 1142609801435738266, guid: 3fb3334c56ba51d44b1c8d276ee060ae,
+      type: 3}
+  - mainCamera: {instanceID: 0}
+  - dolphinEncounterCamera: {instanceID: 0}
+  - CanvasDolphinEncounter: {instanceID: 0}
+  - DolphinHuntPanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
